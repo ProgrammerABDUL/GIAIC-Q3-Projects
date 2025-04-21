@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Deevan e Ghalib",
+        "author": "Mirza Ghalib",
+        "year": 1997,
+        "genre": "Poetry",
+        "read": false
+    },
+    {
+        "title": "Zindan-Nama",
+        "author": "Faiz Ahmad Faiz",
+        "year": 2021,
+        "genre": "Poetry",
+        "read": true
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Novel",
+        "read": true
+    }
+]
